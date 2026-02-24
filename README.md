@@ -1,5 +1,3 @@
-## Hello! 👋
-
 <div style="display: inline_block"><br>
   <img align="center" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Icons8_flat_linux.svg">
   <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
